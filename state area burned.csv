@@ -1,8 +1,9 @@
-State,Area
-Australian Capital Territory,90
-New South Wales,5682
-Northern Territory,0
-Queensland,574
-South Australia,313
-Tasmania,45
-Victoria,1583
+State,Native forest,Commercial plantation,Other forest,Total
+Australian Capital Territory,130,7,5,142
+New South Wales,"19,925",380,62,"20,368"
+Northern Territory,"23,686",45,4,"23,735"
+Queensland,"51,580",229,21,"51,830"
+South Australia,"4,856",178,25,"5,060"
+Tasmania,"3,342",311,46,"3,699"
+Victoria,"7,645",415,162,"8,222"
+Western Australia,"20,450",383,148,"20,981"
