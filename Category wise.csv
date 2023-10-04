@@ -1,0 +1,25 @@
+State,Area,Category
+ACT,130,Native forest
+NSW,19925,Native forest
+NT,23686,Native forest
+QLD,51580,Native forest
+SA,4856,Native forest
+TAS,"3,342",Native forest
+VIC,"7,645",Native forest
+WA,20450,Native forest
+ACT,7,Commercial plantation
+NSW,380,Commercial plantation
+NT,45,Commercial plantation
+QLD,229,Commercial plantation
+SA,178,Commercial plantation
+TAS,311,Commercial plantation
+VIC,415,Commercial plantation
+WA,383,Commercial plantation
+ACT,5,Other forest
+NSW,62,Other forest
+NT,4,Other forest
+QLD,21,Other forest
+SA,25,Other forest
+TAS,46,Other forest
+VIC,162,Other forest
+WA,148,Other forest
